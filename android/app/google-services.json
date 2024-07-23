@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "89104785301",
+    "firebase_url": "https://ams-quiz-default-rtdb.firebaseio.com",
+    "project_id": "ams-quiz",
+    "storage_bucket": "ams-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89104785301:android:05d4922a56b3188261e09c",
+        "android_client_info": {
+          "package_name": "com.example.asmquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqXX_lAUeC66rFYqk-z0h-SAfXndx1aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
